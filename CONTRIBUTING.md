@@ -14,7 +14,7 @@ There are a few things we'll always want to improve in Good First Issue... and a
 
 See [Adding New Projects](https://github.com/bnb/good-first-issue#adding-new-projects) in the README.md if you would like to add a new project.
 
-### Solidifying the Module
+## Solidifying the Module
 
 Good First Issue can be used as a module! Its original purpose was to be used as a CLI, but it can also be used as a module to surface good first issues for a specific project. If you'd like to help out with solidifying the interface and ensuring that it's a good experience for end-users to consume, we'd love your help.
 
