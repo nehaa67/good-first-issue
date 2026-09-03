@@ -10,7 +10,7 @@
 
 There are a few things we'll always want to improve in Good First Issue... and are great ways to contribute!
 
-### Adding New Projects
+## Adding New Projects
 
 See [Adding New Projects](https://github.com/bnb/good-first-issue#adding-new-projects) in the README.md if you would like to add a new project.
 
