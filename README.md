@@ -200,6 +200,6 @@ good-first-issue github/semantic # test the GitHub repo, `github/semantic`
 good-first-issue thisisntarealprojectorgithuborg
 ```
 
-## Contributing
+### Contributing
 
 If you are interested in fixing issues and contributing directly to the code base, please see the document [CONTRIBUTING.md](./CONTRIBUTING.md).
