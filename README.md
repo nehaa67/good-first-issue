@@ -162,7 +162,7 @@ You can pull your queries directly from a standard GitHub search! If you want to
 
 As a CLI, `good-first-issue` uses the Commander.js CLI framework. If you want to better understand how our CLI is built, commander.js is pretty [well documented](https://github.com/tj/commander.js/). Also used are Chalk for terminal coloring and [boxen](https://github.com/sindresorhus/boxen) to simplify the output container implementation.
 
-## Release Process
+### Release Process
 
 Good First Issue follows a relatively strict release process intended to ensure the spice flows.
 
