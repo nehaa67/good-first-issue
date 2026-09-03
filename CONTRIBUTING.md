@@ -22,6 +22,6 @@ Good First Issue can be used as a module! Its original purpose was to be used as
 
 We use [Jest](https://www.npmjs.com/package/jest) for tests, and [Standard](https://www.npmjs.com/package/standard) for linting. If you would like to help Good First Issue by enhancing our test suite or improving linting, we more than welcome your contributions.
 
-### Improving Documentation
+## Improving Documentation
 
 We keep our documentation in [README.md](./README.md). If there's anything in there that doesn't currently reflect the state of the module or CLI, or anything that's unclear, improvements are *always* welcome.
