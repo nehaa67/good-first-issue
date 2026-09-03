@@ -28,7 +28,7 @@ A CLI for finding issues labeled with Good First Issue to help lower the barrier
 
 <!-- tocstop -->
 
-## Prerequisites
+### Prerequisites
 
 To use Good First Issue, you'll need to have a few things installed:
 
