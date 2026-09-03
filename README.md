@@ -146,7 +146,7 @@ The table of projects which are _currently_ supported.
 |49.|Yarn Version Manager|`yvm`|YVM is a version manager for yarn that makes it easy to handle projects with differing yarn versions.|
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-## Adding New Projects
+### Adding New Projects
 
 If you'd like to add a new project to `good-first-issue`, you're more than welcome to submit a PR! There are a few components you'll need to submit:
 
