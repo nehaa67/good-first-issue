@@ -84,7 +84,7 @@ good-first-issue # call the CLI
 
 If you'd like to help with any of these, feel free to submit a PR or ask how you can help 🤗
 
-## Projects
+### Projects
 
 The table of projects which are _currently_ supported.
 
